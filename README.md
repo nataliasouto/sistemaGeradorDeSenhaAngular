@@ -1,6 +1,7 @@
 # Sistema Angular para geração de senha
 Sistema utilizando o framework Angular para geração de senhas fortes. </br>
-Este projeto foi criado com o Angular 8
+Este projeto foi criado com o Angular 8</br>
+<i>** Sistema em andamento **</i>
 
 ### Tecnologias
 Angular 8</br>
